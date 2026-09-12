@@ -12,6 +12,7 @@ function Dashboard() {
         <main>
           <h1>Coordinator Dashboard</h1>
           <p>Welcome to the Coordinator Dashboard!</p>
+    <p>Coordinator settings are available here.</p>
 
           <h2>Overview</h2>
           <ul>
