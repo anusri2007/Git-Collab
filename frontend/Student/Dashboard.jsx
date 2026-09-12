@@ -12,7 +12,7 @@ function Dashboard() {
         <main>
           <h1>Student Dashboard</h1>
           <p>Welcome to the Student Dashboard!</p>
-
+        <p>Student settings are available here.</p>
           <h2>My Courses</h2>
           <ul>
             <li>Web Development</li>
